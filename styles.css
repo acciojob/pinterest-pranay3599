@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.hero {
+  position: relative;
+  overflow: hidden;
+  /* Add any other styles for the container here */
+}
+
+.hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  /* Add any other styles for the image here */
+}
+.h{
+	text-align: right;
+}
+.b{
+	background-color: red;
+	color:white;
+	text-align:center
+}
